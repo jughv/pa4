@@ -1,1 +1,2 @@
-# pa4 truthtables and shit just tryna pass comparch
+# pa4 truthtables
+just tryna pass comparch
